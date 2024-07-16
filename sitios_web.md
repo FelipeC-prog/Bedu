@@ -112,7 +112,7 @@ A continuación, se presenta una lista de sitios web recomendados para buscar va
 
 #### Documentación Solicitada en los Sitios Web Más Frecuentes para Búsqueda de Empleo
 
-![Sitios web uno](https://www.bing.com/images/search?view=detailV2&ccid=2RpozMn0&id=850C9D9C3CDA3C66631E5404C882FF719B2CCBC9&thid=OIP.2RpozMn0wc3iFn4xSF8BnwHaEK&mediaurl=https%3a%2f%2finfo.orcid.org%2fwp-content%2fuploads%2f2023%2f02%2fORCID_Sc_22.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d91a68ccc9f4c1cde2167e31485f019f%3frik%3dycssm3H%252fgsgEVA%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=requirements&simid=608026795632762770&FORM=IRPRST&ck=685226F1E361256D1F08605A3A6646C1&selectedIndex=7&itb=0&qft=%2bfilterui%3alicenseType-Any&ajaxhist=0&ajaxserp=0)
+![Sitios web uno](https://info.orcid.org/wp-content/uploads/2023/02/ORCID_Sc_22-1536x864.jpg)
 
 A continuación, se presenta una lista de la documentación comúnmente solicitada en sitios web de búsqueda de empleo, clasificada por disciplinas profesionales, así como herramientas recomendadas en línea para cumplir con estos requisitos.
 
