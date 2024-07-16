@@ -4,7 +4,7 @@
 
 ## Definición de Currículum Vitae (CV)
 
-Un currículum vitae (CV) es un documento que resume la trayectoria académica, laboral y personal de una persona, con el propósito de presentar sus cualificaciones y experiencia ante potenciales empleadores. A diferencia de una simple lista de trabajos, un CV es un documento integral que puede incluir información detallada sobre educación, experiencia profesional, habilidades, certificaciones, publicaciones, presentaciones y logros personales y profesionales.
+Un currículum vitae (CV): es un documento que resume la trayectoria académica, laboral y personal de una persona, con el propósito de presentar sus cualificaciones y experiencia ante potenciales empleadores. A diferencia de una simple lista de trabajos, un CV es un documento integral que puede incluir información detallada sobre educación, experiencia profesional, habilidades, certificaciones, publicaciones, presentaciones y logros personales y profesionales.
 
 ## Elementos Clave de un Currículum Vitae
 
