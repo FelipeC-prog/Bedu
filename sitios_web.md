@@ -112,6 +112,8 @@ A continuación, se presenta una lista de sitios web recomendados para buscar va
 
 #### Documentación Solicitada en los Sitios Web Más Frecuentes para Búsqueda de Empleo
 
+![Sitios web uno](https://www.bing.com/images/search?view=detailV2&ccid=yN3IqbCT&id=796F72659E2ADA2493656BE83597704FA8FA763A&thid=OIP.yN3IqbCTkFZugEo_-7GrawHaDt&mediaurl=https%3A%2F%2Fresumescripter.com%2Fhubfs%2FWhat%2520we%2520can%2520Learn%2520from%2520Rage-Appliers.png%23keepProtocol&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.c8ddc8a9b09390566e804a3ffbb1ab6b%3Frik%3DOnb6qE9wlzXoaw%26pid%3DImgRaw%26r%3D0&exph=900&expw=1800&q=job+application&simid=608002138221736141&form=IRPRST&ck=92EB18D0F7DBB6E86108280632AC6423&selectedindex=34&itb=0&qft=+filterui%3alicenseType-Any&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_3Jt6aW%252Fd*cp_4B6C1C58DD3FA6434F3B057F8937243D*mid_8CFBD22AA596D8BAC92BBD702073544E4ACBCE1E*simid_607993389421848821*thid_OIP.3Jt6aW!_diU-Ig29oKJP3ggHaFC&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0)
+
 A continuación, se presenta una lista de la documentación comúnmente solicitada en sitios web de búsqueda de empleo, clasificada por disciplinas profesionales, así como herramientas recomendadas en línea para cumplir con estos requisitos.
 
 #### 1. Medicina y Salud
