@@ -1,6 +1,6 @@
 ## **Sitios Web Recomendados para la Búsqueda de Empleo**
 
-![Sitios web uno](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Socialmedia-pm.png/1200px-Socialmedia-pm.png)
+![Sitios web uno](https://stocksnap.io/photo/google-seo-IVY2VG1MAD)
 
 A continuación, se presenta una lista de sitios web recomendados para buscar vacantes de empleo, clasificados por diferentes disciplinas profesionales:
 
