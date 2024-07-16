@@ -1,6 +1,6 @@
 # La Clave del Éxito Laboral: La Importancia del Currículum Vitae en la Búsqueda de Empleo
 
-![Curriculum vitae](https://vectorportal.com/storage/resume-cv-vectorportal.jpg)
+![Curriculum vitae](https://th.bing.com/th/id/R.2f6ab6bd9210ee225875219c414a2be7?rik=HnfLpnJulZHAAg&riu=http%3a%2f%2fwww.picpedia.org%2fhighway-signs%2fimages%2fcurriculum-vitae.jpg&ehk=uqnr4VlrfDyLUucYUezygJhNjcZXrjm3plkOsEv418U%3d&risl=&pid=ImgRaw&r=0)
 
 ## Definición de Currículum Vitae (CV)
 
@@ -40,6 +40,8 @@ Un currículum vitae (CV): es un documento que resume la trayectoria académica,
 En resumen, un currículum vitae es una herramienta esencial en la búsqueda de empleo, ya que sirve como la principal representación de las habilidades, experiencias y logros de un candidato. Su importancia radica en su capacidad para abrir puertas, crear oportunidades y comunicar de manera efectiva el valor que el candidato puede aportar a una organización.
 
 ## Especificaciones para la Elaboración del Currículum Vitae
+
+![Curriculum Vitae dos](https://3.bp.blogspot.com/-CAOTUu1FYu8/V0FzonEBmGI/AAAAAAAACCk/JtbfU5cXpK0Lg9BScMbfJL683yGeY1NYwCLcB/w1200-h630-p-k-no-nu/work-1315232_1280.jpg)
 
 Para crear un currículum vitae profesional y efectivo, es importante prestar atención a diversos aspectos formales y de diseño. Aquí te presento las especificaciones recomendadas:
 
@@ -90,6 +92,8 @@ Para crear un currículum vitae profesional y efectivo, es importante prestar at
 Siguiendo estas especificaciones, podrás crear un currículum vitae claro, profesional y efectivo, que te ayudará a destacar en el proceso de selección de empleo.
 
 ## Programas de Cómputo para Hacer un Currículum Vitae
+
+![Curriculum vitae tres](https://2.bp.blogspot.com/-4INbvMDIsk0/VBwRORReYoI/AAAAAAAAAOM/bAC0WVuSSeA/s1600/tecnolog%C3%ADas-2014.jpg)
 
 ### Programas de Paga
 
