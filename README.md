@@ -5,7 +5,11 @@
 Intergantes:
 
 Lizeth Rodriguez Álvarez
+
 Alejandra Colunga
+
 Mitzi YazminCancino Huerta
+
 Javit Adame
+
 Felipe de J. Castrp Hernández
