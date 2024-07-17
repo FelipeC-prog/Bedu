@@ -23,7 +23,7 @@
 7. **¿Cómo manejas el estrés y la presión?**
    - **Respuesta:** "Manejo el estrés y la presión manteniendo una organización efectiva y priorizando mis tareas. Me aseguro de tomar descansos cuando es necesario y busco soluciones proactivas a los problemas."
   
-![Entrevista de trabajo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fes-es%2Ffoto%2Fhombre-gente-mujer-oficina-4226115%2F&psig=AOvVaw0MKY8fxCM2LIwYhd_QElMp&ust=1721268072721000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiM8bb9rIcDFQAAAAAdAAAAABAJ)
+![Entrevista de trabajo](https://images.pexels.com/photos/4226115/pexels-photo-4226115.jpeg)
 
 8. **¿Puedes dar un ejemplo de un conflicto que hayas tenido en el trabajo y cómo lo resolviste?**
    - **Respuesta:** "En una ocasión, tuve un conflicto con un compañero sobre [descripción del conflicto]. Lo abordé directamente y tuvimos una conversación abierta para entender mejor nuestras perspectivas. Al final, llegamos a un compromiso que benefició a ambos."
