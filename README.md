@@ -2,14 +2,14 @@
 
 # Equipo: 22
 
-Intergantes:
+# Integrantes:
 
 Lizeth Rodriguez Álvarez
 
 Alejandra Colunga
 
-Mitzi YazminCancino Huerta
+Mitzi Yazmin Cancino Huerta
 
 Javit Adame
 
-Felipe de J. Castrp Hernández
+Felipe de J. Castro Hernández
