@@ -110,6 +110,18 @@ A continuación, se presenta una lista de sitios web recomendados para buscar va
  
  Esta lista proporciona una guía inicial de sitios web recomendados para buscar empleo según diferentes disciplinas profesionales. Cada plataforma tiene sus propias características y requisitos específicos que los solicitantes de empleo deben considerar al aplicar a vacantes.
 
+ **Referencias:**
+- Pitch N Hire. (n.d.). Best websites to find online jobs full-time. LinkedIn. Retrieved July 16, 2024, from https://www.linkedin.com/pulse/best-websites-find-online-jobs-full-time-pitch-n-hire-cx8tc/
+- Doyle, A. (2023, May 17). Top 10 best job websites. The Balance. Retrieved July 16, 2024, from https://www.thebalancemoney.com/top-best-job-websites-2064080
+- Cabrera, V. (2023, April 5). Las mejores páginas web para encontrar empleo en México. Milenio. Retrieved July 16, 2024, from https://www.milenio.com/politica/comunidad/mejores-paginas-web-para-encontrar-empleo-en-mexico
+- IFP Formación Profesional. (2023, June 12). Cuáles son las mejores plataformas para la búsqueda de empleo. IFP Formación Profesional. Retrieved July 16, 2024, from https://www.ifp.es/blog/cuales-son-las-mejores-plataformas-para-la-busqueda-de-empleo
+- Ethikos 3.0. (2022, November 10). Las 7 mejores webs para buscar empleo. LinkedIn. Retrieved July 16, 2024, from https://www.linkedin.com/pulse/las-7-mejores-webs-para-buscar-empleo-ethikos-3-0/
+- Finanzas Personales MX. (2023, February 20). Los mejores portales de empleo de México. Financera MX. Retrieved July 16, 2024, from https://financera.mx/finanzas-personales/articulos/mejores-portales-empleo-de-mexico/
+- CareerCloud. (2024). The best job search sites in 2024. Recuperado de https://www.careercloud.com
+- Career Sidekick. (2024). The 24 best tech and IT job boards for 2024. Recuperado de https://www.careersidekick.com
+- NovoResume. (2024). 40+ best job search sites in 2024. Recuperado de https://www.novoresume.com
+- Career Sherpa. (2024). 33 best job search websites to use in 2024. Recuperado de https://www.careersherpa.net
+
 #### Documentación Solicitada en los Sitios Web Más Frecuentes para Búsqueda de Empleo
 
 ![Sitios web uno](https://info.orcid.org/wp-content/uploads/2023/02/ORCID_Sc_22-1536x864.jpg)
