@@ -323,4 +323,16 @@ Cada sitio web de búsqueda de empleo puede tener requisitos específicos para l
 
 Este contenido proporciona una guía detallada sobre la documentación necesaria para aplicar a vacantes en diversas disciplinas profesionales y las herramientas en línea recomendadas para cumplir con estos requisitos. Esta información facilitará a los usuarios el proceso de búsqueda y aplicación a empleos, incrementando sus oportunidades de éxito.
 
+ **Referencias:**
+- Observatorio Laboral. (s.f.). Dale un giro a tu CV y digitalízalo con estas herramientas. Recuperado de https://www.observatoriolaboral.gob.mx/static/preparate-empleo/Crea_tu_cv_5.html.
+- Universia. (s.f.). 5 herramientas gratuitas para crear un portafolio digital. Recuperado de https://www.universia.net/mx/actualidad/orientacion-academica/5-herramientas-gratuitas-crear-portfolio-digital-1121495.html.
+- Cabrera, R. (2023). 5 plataformas de cursos certificados para la salud. Recuperado de https://www.linkedin.com/pulse/5-plataformas-de-cursos-certificados-para-la-salud-cabrera-opazo/.
+- Indeed. (n.d.). How to Write a CV. Retrieved from https://www.indeed.com/career-advice/resumes-cover-letters/how-to-write-a-cv
+- LinkedIn Learning. (n.d.). LinkedIn Learning with Lynda: Online Training Courses for Creative, Technology, Business Skills. Retrieved from https://www.linkedin.com/learning/
+- Glassdoor. (n.d.). How to Create a Job Portfolio: Samples & Examples. Retrieved from https://www.glassdoor.com/blog/guide/how-to-create-a-job-portfolio/
+- Monster. (n.d.). How to Get a Job: A Step-by-Step Guide. Retrieved from https://www.monster.com/career-advice/article/how-to-get-a-job
+- CareerBuilder. (n.d.). Resume Writing Tips: How to Write a Resume. Retrieved from https://www.careerbuilder.com/advice/resume-writing-tips
+- Parchment. (n.d.). How to Get Your Transcripts. Retrieved from https://www.parchment.com/
+- Coursera. (n.d.). Online Courses From Top Universities. Retrieved from https://www.coursera.org/
+- Zety.(n.d.). Resume Builder. Retrieved from https://zety.com/
 
