@@ -324,20 +324,3 @@ Cada sitio web de búsqueda de empleo puede tener requisitos específicos para l
 Este contenido proporciona una guía detallada sobre la documentación necesaria para aplicar a vacantes en diversas disciplinas profesionales y las herramientas en línea recomendadas para cumplir con estos requisitos. Esta información facilitará a los usuarios el proceso de búsqueda y aplicación a empleos, incrementando sus oportunidades de éxito.
 
 
-**REFERENCIAS**
-
-**1. The Muse**
-
-Ofrece una amplia gama de artículos y recursos sobre cómo prepararse para entrevistas de trabajo, incluyendo ejemplos de respuestas a preguntas comunes.
-[The Muse](https://www.themuse.com/)
-
-**2. Indeed Career Guide**
-
-Proporciona guías detalladas y ejemplos de preguntas y respuestas para entrevistas de trabajo.
-[Indeed Career Guide](https://in.indeed.com/career-advice)
-
-
-**3. Glassdoor**
-
-Además de las reseñas de empresas, Glassdoor tiene secciones dedicadas a la preparación de entrevistas con ejemplos reales de preguntas de entrevistas en varias compañías.
-[Glassdoor](https://www.glassdoor.com.mx/blog/)
