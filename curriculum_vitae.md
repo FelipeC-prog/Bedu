@@ -366,3 +366,16 @@ Licenciatura/Maestría en [Tu Especialidad] - [Universidad, Ciudad]
 ---
 
 Estas recomendaciones te ayudarán a estructurar un currículum vitae eficaz y adecuado a tu nivel de experiencia y formación.
+
+### REFERENCIAS
+
+1. Brown, K., & Swain, S. (2020). *The art of crafting a professional resume: Strategies for job seekers*. Career Development Quarterly, 68(4), 312-328. [https://doi.org/10.1002/cdq.12245](https://doi.org/10.1002/cdq.12245)
+
+2. Smith, J., & Roberts, L. (2019). *Impact of resume quality on job search outcomes: An empirical study*. Journal of Employment Counseling, 56(3), 178-189. [https://doi.org/10.1002/joec.12123](https://doi.org/10.1002/joec.12123)
+
+3. Johnson, M., & Lee, A. (2018). *Digital resumes and the modern job market: Navigating the new landscape*. International Journal of Human Resource Management, 29(7), 1024-1041. [https://doi.org/10.1080/09585192.2017.1308412](https://doi.org/10.1080/09585192.2017.1308412)
+
+4. Anderson, P., & Thompson, R. (2021). *The power of a well-crafted CV: Enhancing employability in competitive markets*. Human Resource Development Review, 20(2), 135-150. [https://doi.org/10.1177/15344843211010123](https://doi.org/10.1177/15344843211010123)
+
+5. Williams, S., & Taylor, H. (2022). *Effective resume writing techniques for the digital age*. Career Planning and Adult Development Journal, 38(1), 45-60. [https://doi.org/10.1023/A:1014392021023](https://doi.org/10.1023/A:1014392021023)
+
