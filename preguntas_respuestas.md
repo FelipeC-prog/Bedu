@@ -33,3 +33,22 @@
 
 10. **¿Por qué deberíamos contratarte?**
     - **Respuesta:** "Deberían contratarme porque tengo las habilidades y la experiencia necesarias para este puesto. Además, estoy muy motivado por [algo específico de la empresa o el puesto] y estoy seguro de que puedo aportar [valor específico] al equipo."
+
+
+**REFERENCIAS**
+
+**1. The Muse**
+
+Ofrece una amplia gama de artículos y recursos sobre cómo prepararse para entrevistas de trabajo, incluyendo ejemplos de respuestas a preguntas comunes.
+[The Muse](https://www.themuse.com/)
+
+**2. Indeed Career Guide**
+
+Proporciona guías detalladas y ejemplos de preguntas y respuestas para entrevistas de trabajo.
+[Indeed Career Guide](https://in.indeed.com/career-advice)
+
+
+**3. Glassdoor**
+
+Además de las reseñas de empresas, Glassdoor tiene secciones dedicadas a la preparación de entrevistas con ejemplos reales de preguntas de entrevistas en varias compañías.
+[Glassdoor](https://www.glassdoor.com.mx/blog/)
