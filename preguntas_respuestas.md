@@ -1,5 +1,7 @@
 # Preguntas Comunes y Ejemplos de Respuestas
 
+![Búsqueda de empleo] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fes-es%2Ffoto%2Fmujer-llenando-el-formulario-de-solicitud-de-empleo-en-la-oficina-con-el-jefe-5668858%2F&psig=AOvVaw0MKY8fxCM2LIwYhd_QElMp&ust=1721268072721000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiM8bb9rIcDFQAAAAAdAAAAABAE)
+
 1. **¿Puedes hablarme de ti?**
    - **Respuesta:** "Soy un profesional con [X] años de experiencia en [tu campo]. Me he especializado en [tu especialidad] y he trabajado en proyectos como [ejemplo de proyecto relevante]. Me apasiona [algo relacionado con el trabajo] y siempre busco oportunidades para mejorar y aprender."
 
@@ -20,6 +22,8 @@
 
 7. **¿Cómo manejas el estrés y la presión?**
    - **Respuesta:** "Manejo el estrés y la presión manteniendo una organización efectiva y priorizando mis tareas. Me aseguro de tomar descansos cuando es necesario y busco soluciones proactivas a los problemas."
+  
+![Entrevista de trabajo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fes-es%2Ffoto%2Fhombre-gente-mujer-oficina-4226115%2F&psig=AOvVaw0MKY8fxCM2LIwYhd_QElMp&ust=1721268072721000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiM8bb9rIcDFQAAAAAdAAAAABAJ)
 
 8. **¿Puedes dar un ejemplo de un conflicto que hayas tenido en el trabajo y cómo lo resolviste?**
    - **Respuesta:** "En una ocasión, tuve un conflicto con un compañero sobre [descripción del conflicto]. Lo abordé directamente y tuvimos una conversación abierta para entender mejor nuestras perspectivas. Al final, llegamos a un compromiso que benefició a ambos."
