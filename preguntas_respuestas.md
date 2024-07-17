@@ -1,6 +1,6 @@
 # Preguntas Comunes y Ejemplos de Respuestas
 
-![Búsqueda de empleo] (https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Búsqueda de empleo](https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 1. **¿Puedes hablarme de ti?**
    - **Respuesta:** "Soy un profesional con [X] años de experiencia en [tu campo]. Me he especializado en [tu especialidad] y he trabajado en proyectos como [ejemplo de proyecto relevante]. Me apasiona [algo relacionado con el trabajo] y siempre busco oportunidades para mejorar y aprender."
